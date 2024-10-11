@@ -24,7 +24,7 @@ CONST VINCE = {
   cloud: ["AWS", "Render", "Heroku"],
   logging: ["New Relic", "Coralogix"],
   ai_tool: ["Copilot", "ChatGPT"],
-  passions: ["Family", "Software", "Disc Golf", "Fly Fishing"]
+  passion: ["Family", "Software", "Disc Golf", "Fly Fishing"]
 }
 ```
 
