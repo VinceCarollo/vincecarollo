@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">:wave: Hello there! I'm Vince</h1>
+<h1>:wave: Hello there! I'm Vince</h1>
 
 ```ruby
 CONST VINCE = {
